@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\imgui\\examples",
+    "\\imgui\\examples\\example_win32_directx12",
+    "\\src",
+    "\\src\\backends"
+  ],
+  "SelectedNode": "\\src\\backends\\imgui_impl_dx12.h",
+  "PreviewInSolutionExplorer": false
+}
